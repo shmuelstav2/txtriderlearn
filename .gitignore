@@ -1,0 +1,10 @@
+"jwtToken.txt"
+"jwtToken"
+*.tar.gz*
+node_modules
+.DS_Store
+*.log
+*.key
+*.crt
+*.pem
+
